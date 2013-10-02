@@ -1,0 +1,6 @@
+{
+	"app" : "0.1",
+	"dependencies" : {
+		"foundation" : "4.3.2"
+	}
+}
